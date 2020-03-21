@@ -1,2 +1,3 @@
-# avalon-online-backend
-Backend repository for online Avalon :party-wizard:
+## Avalon Online [Backend]
+
+:party-wizard: This repository contains the backend API for Avalon Online
